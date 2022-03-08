@@ -1,3 +1,5 @@
 1. Open new folder with name of the new repository
-3. Command -> Git: Initialize Repository
-5. Make at least one file and commit changes
+2. Command -> Git: Initialize Repository
+3. Make at least one file and commit changes
+4. Command -> Publish to GitHub -> public repository (will create a new one on github)
+5. 
