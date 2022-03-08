@@ -1,6 +1,3 @@
 1. Open new folder with name of the new repository
-2. Create README file (or any one file)
 3. Command -> Git: Initialize Repository
-4. Command -> Publish to Github, publish to GitHub public repository
-5. Command -> Remote Repositories: Open Remote Repository...
-6. 
+5. Make at least one file and commit changes
