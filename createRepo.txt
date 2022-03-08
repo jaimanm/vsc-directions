@@ -1,3 +1,4 @@
+Prerequisite: 'Github Repositories' extension installed
 1. Open new folder with name of the new repository
 2. Command -> Git: Initialize Repository
 3. Make at least one file and commit changes
