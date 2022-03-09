@@ -4,4 +4,17 @@
     anaconda
 2. Launch vscode & open/create "VSCode Workspace" folder on Desktop
 3. In settings, make sure "Git: enabled" is on
-4. 
+4. Open anaconda prompt, run following commands
+    conda create --name vscode
+    conda activate vscode
+    conda install  ipykernel
+    git config --global user.email "jaimancoding@gmail.com"
+    git config --global user.name "jaimanm"
+5. Go back to vscode -> select Python interpreter -> choose the option that says (vscode)
+6. Clone the repository that you want into "VSCode Workspace" folder
+    Select "Open in new window"
+7. Make changes - for jupyter notebook, make sure to select correct vscode interpreter (top right)
+8. Go to source control (third button down)
+    Write commit name and ctrl-enter
+    Click "Sync Changes"
+    Double Check changes on github.com

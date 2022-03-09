@@ -1,7 +1,0 @@
-Prerequisite: 'Github Repositories' extension installed
-1. Open new folder with name of the new repository
-2. Command -> Git: Initialize Repository
-3. Make at least one file and commit changes
-4. Click button "Publish Branch"
-5. Command -> Open Remote Repository -> Select the new repository
-6. Should show up in remote explorer (last icon on the right side)
