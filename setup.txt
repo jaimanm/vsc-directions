@@ -1,0 +1,7 @@
+1. Install:
+    vscode
+    git
+    anaconda
+2. Launch vscode & open/create "VSCode Workspace" folder on Desktop
+3. In settings, make sure "Git: enabled" is on
+4. 
