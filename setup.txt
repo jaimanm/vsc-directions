@@ -18,3 +18,11 @@
     Write commit name and ctrl-enter
     Click "Sync Changes"
     Double Check changes on github.com
+
+
+To create a new repository:
+1. Create new folder with repo name
+2. Open the folder in vscode
+3. Command -> Git: Initialize Repository
+4. Add a file (probably a README)
+5. Command -> Git: Publish Branch
